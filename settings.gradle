@@ -1,0 +1,2 @@
+rootProject.name = "Worlds capital cities"
+include ':app'
