@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Столицы стран мира</string>
+    <string name="question_text">Минск столица галактики.</string>
+    <string name="true_button">Верно</string>
+    <string name="false_button">Ложь</string>
+</resources>
