@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Столицы стран мира</string>
-    <string name="question_text">Минск столица галактики.</string>
     <string name="true_button">Верно</string>
     <string name="false_button">Ложь</string>
+    <string name="next_button">Далее</string>
+    <string name="previous_button">Назад</string>
     <string name="correct_toast">Верно!</string>
     <string name="incorrect_toast">Не верно!</string>
+    <string name="question_belarus">Минск является столицей Галактики.</string>
+    <string name="question_france">Столицей Франции является Париж.</string>
+    <string name="question_usa">Столица США является Нью-Йорк.</string>
+    <string name="question_south_korea">Столица Южной Кореи является Сеул.</string>
+    <string name="question_turkey">Столица Турции является Стамбул.</string>
+    <string name="question_syria">Столицей Сирии является Бейрут.</string>
 </resources>

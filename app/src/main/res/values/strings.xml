@@ -1,8 +1,15 @@
 <resources>
     <string name="app_name">Worlds capital cities</string>
-    <string name="question_text">Minsk is the capital of Galaxy.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
     <string name="correct_toast">Correct!!!</string>
     <string name="incorrect_toast">Incorrect!!!</string>
+    <string name="question_belarus">Minsk is the capital of Galaxy.</string>
+    <string name="question_france">The capital of France is Paris.</string>
+    <string name="question_usa">The capital of the USA is New York.</string>
+    <string name="question_south_korea">The capital of South Korea is Seoul.</string>
+    <string name="question_turkey">The capital of Turkey is Istanbul.</string>
+    <string name="question_syria">The capital of Syria is Beirut.</string>
 </resources>
